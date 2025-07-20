@@ -1,0 +1,13 @@
+{
+    "name": "Pickup page title",
+    "description": "Pick the title of the current tab/page.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
