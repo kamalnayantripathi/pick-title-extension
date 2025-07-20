@@ -11,8 +11,8 @@ This is a simple Chrome Extension that picks the title of the current active tab
 - Built with **Manifest V3**.
 
 ---
-```
 ## **Project Structure**
+```
 📂 pick-page-title-extension
 ├── popup.html
 ├── popup.css
